@@ -144,7 +144,6 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_SKIP_COMPATIBILITY_CHECK := true
 TW_Y_OFFSET := 52
 TW_H_OFFSET := -52
-TW_OZIP_DECRYPT_KEY := "0000" # Ozip Flashing Support ( Untested )
 
 # Hack: prevent anti rollback
 PLATFORM_SECURITY_PATCH := 2120-12-31
