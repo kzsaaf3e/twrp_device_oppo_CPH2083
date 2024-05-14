@@ -125,7 +125,7 @@ TARGET_SCREEN_WIDTH := 720
 # TWRP Configuration
 TW_THEME := portrait_hdpi
 TW_INPUT_BLACKLIST := "hbtp_vm"
-TW_DEVICE_VERSION := 1_rev-1 - kazusakiii47
+TW_DEVICE_VERSION := kazusaki37_F-REL
 TW_MAX_BRIGHTNESS := 2047
 TW_DEFAULT_BRIGHTNESS := 560
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
