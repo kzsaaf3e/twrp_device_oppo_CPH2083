@@ -147,6 +147,7 @@ TW_H_OFFSET := -52
 TW_OZIP_DECRYPT_KEY := "1C4A11A3A12513AE441B23BB31513121"
 
 # MTP
+TW_INCLUDE_MTP := true
 TW_HAS_MTP := true
 
 # Hack: prevent anti rollback
